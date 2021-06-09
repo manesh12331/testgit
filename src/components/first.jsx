@@ -5,6 +5,7 @@ import React, { Component } from 'react'
         return (
             <div>
                <h1>In first page </h1>
+               <p>manesh@gmail.com</p>
             </div>
         )
     }
